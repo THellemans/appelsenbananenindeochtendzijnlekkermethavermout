@@ -8,6 +8,7 @@ Dit is een readme die ik eigenlijk gewoon maar gemaakt heb ter voorbeeld, hier m
    2. Een paar notebooks die de functionaliteit showcasen
    3. Een algemene main.py die alles draait
    4. ....
+
 Afhankelijk van de situatie
 
 M**ark**Do*w*n werkt hier, a poor man's html Zie [hier](https://www.markdownguide.org/)
