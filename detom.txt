@@ -1,2 +1,7 @@
 Dit is misschien de tom
+<<<<<<< HEAD
 wwwwwwwwwwwwwwwwwwwwwwwwww
+=======
+
+ploppertjes eten graag plopkoeken
+>>>>>>> main

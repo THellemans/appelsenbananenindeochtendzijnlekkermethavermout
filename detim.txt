@@ -1,3 +1,7 @@
 dit is echt de time
 Jaja, plopkoeken omnomnomnomnonjomnom
+<<<<<<< HEAD
 ppppppppppppppppppppppppppppppppppp
+=======
+qqqqqqqqqqqqqqq
+>>>>>>> main
